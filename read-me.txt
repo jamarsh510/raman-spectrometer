@@ -1,0 +1,7 @@
+The file "ramangui.py" relies on the files "raman.py" and "powermeter.py" for functionality.
+
+The file "controllergui.py" relies on the file "movement.py" for functionality.
+
+The file "combinedgui.py" relies on the files "ramangui.py", "movement.py", "controllergui.py", and "powermeter.py" for functionality.
+
+The file "anglemap.py" relies on the file "converttoangle.py" for functionality.
